@@ -1,6 +1,6 @@
 
 <p align="center">
-    <h1 align="center">Asev's Windows Desktop 🌇</h2>
+    <h1 align="center">Norths's Windows Desktop 🐟</h2>
 </p>
 
 <p align="center">How I customize my Windows 11 desktop 🌸</p>
